@@ -44,7 +44,7 @@ class Ffmpeg < Formula
   depends_on "sdl2"
   depends_on "snappy"
   depends_on "theora"
-  depends_on "x264"
+  depends_on "https://raw.githubusercontent.com/Homebrew/homebrew-core/1b62cb95ea3acc6386e1a59e4f46b9fe8ff41ff3/Formula/x264.rb"
   depends_on "x265"
   depends_on "xvid"
   depends_on "xz"
